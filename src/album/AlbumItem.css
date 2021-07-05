@@ -1,0 +1,23 @@
+.album-item {
+  display: flex;
+  align-items: center;
+  margin: 0.5rem 0.5rem 0 0.5rem;
+}
+
+.album-item > img {
+  height: 64px;
+  width: 64px;
+  display: inline-block;
+}
+
+.album-item > h3 {
+  display: inline;
+  margin: 0 1rem;
+}
+.album-loading {
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: bold;
+  margin: auto;
+  width: 50%;
+}

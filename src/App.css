@@ -1,0 +1,10 @@
+.albums-app {
+  margin: auto;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.albums-app > h1 {
+  text-align: center;
+}
